@@ -1,7 +1,3 @@
-Got it! Here's an updated version of the README for a **clone** of the Xentry website landing page:
-
----
-
 # Xentry Website Landing Page Clone
 
 Welcome to the repository for the **Xentry Website Landing Page Clone**. This repository contains the source code for a clone of the Xentry landing page, designed to replicate its design and functionality. This project is meant for educational and practice purposes, allowing you to learn about front-end development and web design by building a clone of a real-world website.
