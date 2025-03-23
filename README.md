@@ -17,7 +17,10 @@ Welcome to the repository for the **Xentry Website Landing Page Clone**! This pr
 - **Bootstrap 5**: Responsive grid and layout framework 🧱
 - **Sass**: For efficient and modular CSS management ⚡
 - **Parcel/Webpack**: For bundling and optimization 🔧
-
+- **GSAP** : For adding animation in the website.
+- **clsx** : For adding className to the elements dynamically in Tailwind CSS.
+- **React Icons Library** : For adding icons to the buttons in the website.
+ 
 ## Installation ⚙️
 
 To run this project locally, follow these simple steps:
