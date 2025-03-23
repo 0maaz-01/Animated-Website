@@ -31,6 +31,19 @@ Welcome to the repository for the **Xentry Website Landing Page Clone**! This pr
 
 ---
 
+## Responsiveness 🌐 : ( Click on the image to watch the video )
+[<img src="https://github.com/0maaz-01/Animated-Website/blob/main/public/Responsiveness.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/wivwzfPWoDg?si=PWw8K3v9ofnPxgFQ)
+
+## How the website appears on desktop 💻 :  ( Click on the image to watch the video )
+[<img src="https://github.com/0maaz-01/Animated-Website/blob/main/public/Desktop.png" alt="Thumbnail" width="320" height="200">](https://youtu.be/MeRm6c_OjMs)
+
+## How the website appears on mobile 📱 :  ( Click on the image to watch the video )
+[<img src="https://github.com/0maaz-01/Animated-Website/blob/main/public/Mobile.png" alt="Thumbnail" width="220" height="500">](https://youtube.com/shorts/nLpjSAjnsVE?feature=share)
+
+---
+
+
+
 ## Installation 🛠️ :
 You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
@@ -94,6 +107,3 @@ SOFTWARE.
 
 ## Acknowledgments 🙏
 - **Xentry** (for the original design inspiration)
-
----
-
