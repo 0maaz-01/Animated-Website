@@ -31,28 +31,25 @@ Welcome to the repository for the **Xentry Website Landing Page Clone**! This pr
 
 ---
 
-## Installation ⚙️
+## Installation 🛠️ :
+You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
-To run this project locally, follow these simple steps:
+1) React :
+`npm install `
 
-1. Clone the repository:
+2) Tailwind CSS :
+   `npm install -D tailwindcss@3 postcss autoprefixer`
+     
+    `npx tailwindcss init  -p`
 
-   ```bash
-   git clone https://github.com/yourusername/xentry-landing-page-clone.git
-   ```
+4) clsx :
+   `npm install clsx`
 
-2. Navigate to the project directory:
+5) GSAP :
+   `npm install @gsap/react gsap`
 
-   ```bash
-   cd xentry-landing-page-clone
-   ```
-
-3. Open the `index.html` file in your browser to view the landing page 🌐
-
-   Alternatively, you can use a live server for development:
-
-   - Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in Visual Studio Code and open `index.html` 🚀
-   - Or, if using a bundler, run a local server with npm (if set up).
+6) React Icons Library :
+   `npm install react-icons --save`
 
 ---
 
