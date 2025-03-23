@@ -58,18 +58,40 @@ To run this project locally, follow these simple steps:
 
 ## Contributing 🤝
 
-We welcome contributions! If you’d like to improve or customize this project, follow these steps:
+Feel free to fork the repository and submit pull requests. Here are some guidelines to help you get started:
 
-1. Fork the repository 🍴
-2. Create a new branch for your changes 🔧
-3. Implement your changes and commit them ✍️
-4. Push your branch and open a pull request 🔄
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Commit your changes.
+5. Push to the branch.
+6. Open a pull request.
 
 ---
 
 ## License 📜
 
-This project is purely for educational and personal use and is not affiliated with the original Xentry website. It’s licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+MIT License
+
+Copyright (c) 2025 Mohammed Maaz Rayeen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
@@ -77,3 +99,4 @@ This project is purely for educational and personal use and is not affiliated wi
 - **Xentry** (for the original design inspiration)
 
 ---
+
