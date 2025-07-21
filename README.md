@@ -1,5 +1,4 @@
-# Live Link - [Xentry Clone](https://animated-website-plum.vercel.app/)
----
+
 # Xentry Website Landing Page Clone 🚀
 
 Welcome to the repository for the **Xentry Website Landing Page Clone**! This project is a clone of the Xentry landing page, designed to replicate its design and functionality. It's built for educational purposes, helping you learn about front-end development and web design by creating a clone of a real-world website. 🎓💻
